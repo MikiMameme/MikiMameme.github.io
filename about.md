@@ -8,7 +8,11 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+プログラミング初心者（入門レベル）として学習を進めている私の学習記録と練習コードをまとめたものをGitHubにて公開しています。
+入門書を読んだり写経したり、課題をChatGPTに出してもらい、その課題をこなしたり、学習の範囲内でプログラムに改良をすることによって、学習をより深いものにすることを目的にしています。
+
+このページは、GitHubの理解を深めたいため、ページを作ったりしたり、ブログのようなこともやってみたいと思い開設しました。  
+不慣れな点が多く、うまく作れてないこともあるかと思いますがよろしくお願いします。
 
 ### Contact me
 
