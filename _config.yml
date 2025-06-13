@@ -3,10 +3,10 @@
 #
 
 nav:
-  title: "Home"
-  url: "/"
-  title: "Blog"
-  url: "/blog/"
+title: "Home"
+url: "/"
+title: "Blog"
+url: "/blog/"
     
 # Name of your site (displayed in the header)
 name: 神酒まめ🫛
