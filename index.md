@@ -11,4 +11,4 @@ title: Welcome
 ブログです
 
 📚<a href="{{ site.baseurl }}/about">About</a>
-このGitHub Pages、各リポジトリ、学習した入門書など
+簡単な自己紹介、各リポジトリ、学習した入門書など
