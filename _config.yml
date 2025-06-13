@@ -1,12 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #
-
-nav:
-title: "Home"
-url: "/"
-title: "Blog"
-url: "/blog/"
     
 # Name of your site (displayed in the header)
 name: 神酒まめ🫛
