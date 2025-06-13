@@ -15,8 +15,8 @@ permalink: /about/
 
 ### 📚学習した入門書
 
-📚Python
+📚Python  
 ■12歳からはじめるゼロからのPythonゲームプログラミング教室
 
-📚C言語
+📚C言語  
 ■苦しんで覚えるC言語
